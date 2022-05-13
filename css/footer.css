@@ -1,0 +1,46 @@
+.footer{
+    width: 1200px;
+    padding: 15px;
+    color: white;
+    position: relative;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border:1px aqua solid;
+}
+.footerItem{
+    text-align: center;
+}
+.footerTitle{
+    font-size: 18px;
+    color: rgb(15, 159, 152);
+    animation-name: SliderColor;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+@keyframes SliderColor {
+    0%{
+        color: aqua;
+    }
+    50%{
+        color: rgb(15, 159, 152);
+    }
+    100%{
+        color: aqua;
+    }
+}
+.footerItem p{
+    padding: 5px 0;
+    text-align: left;
+}
+.footerItem p:hover{
+    color: aqua;
+}
+.footerLink{
+    color: white;
+    text-decoration: none;
+}
+.footerLink:hover{
+    color: aqua;
+}

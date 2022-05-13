@@ -1,0 +1,59 @@
+.content {
+  position: relative;
+  width: 1200px;
+  margin: auto;
+  padding: 15px;
+}
+.content_container {
+  color: white;
+}
+.content_img {
+  position: relative;
+  width: 80%;
+  height: 80%;
+  left: 10%;
+}
+.content_Title {
+  font-size: 22px;
+  padding: 25px 0;
+}
+.contenttext1,
+.contenttext2 {
+  font-size: 18px;
+  padding: 25px 0px;
+}
+.sale_text {
+  font-size: 18px;
+  padding: 25px 0px;
+}
+.contenttext3 {
+  font-size: 18px;
+  padding-left: 15px;
+}
+.itemsSale{
+    display: flex;
+    align-items: center;
+}
+.itemsSale span {
+    padding-top: 4px;
+}
+.icon_blueStart {
+  width: 40px;
+  height: 40px;
+  position: relative;
+  animation-name: slider;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  margin-right: 25px;
+}
+@keyframes slider {
+    0% {
+        filter: brightness(100%);
+    }
+    50% {
+        filter: brightness(300%)
+    }
+    100%{
+        filter: brightness(100%);
+    }
+}

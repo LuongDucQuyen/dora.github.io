@@ -1,0 +1,18 @@
+.commit{
+    width: 1200px;
+    padding: 15px;
+    position: relative;
+    color: white;
+    margin: auto;
+}
+.commit_Title{
+    font-size: 25px;
+    margin-bottom: 25px;
+    display: flex;
+    font-weight: bold;
+    align-items: center;
+}
+.commit_detail{
+    font-size: 18px;
+    
+}

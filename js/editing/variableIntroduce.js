@@ -1,0 +1,2 @@
+export var introduceTitle='Công Ty Thiết Kế, Công Nội Thất Trọn Gói, Chìa Khoá Trao Tay!'
+export var introduceText = 'Ngày nay nhu cầu Thiết Kế, Thi Công Nội Thất Đẹp không còn xa lạ gì với mỗi chúng ta,  Ngôi Nhà Đẹp là xu hướng lựa chọn ngôi nhà với phần lớn các bạn trẻ thời hiện đại. Vì thế nhu cầu Thiết kế, thi công nội thất ngày càng tăng cao. Đáp lại nhu cầu chung của mọi người DecoViet phát triển Xưởng Thi Công Nội Thất Giá Rẻ với 5000m2 và nguồn nhân lực dồi dào kinh nghiệm hứa sẻ mang lại cho bạn ngôi nhà yêu thích nhất.'

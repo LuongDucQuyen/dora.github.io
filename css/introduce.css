@@ -1,0 +1,17 @@
+.introduce{
+    width: 1200px;
+    margin: auto;
+    color: white;
+    padding: 15px;
+    position: relative;
+}
+.introduce_Title{
+    font-size: 25px;
+    padding-bottom: 25px;
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+}
+.introduce_detail{
+    font-size: 18px;
+}

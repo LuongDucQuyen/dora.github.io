@@ -1,0 +1,3 @@
+export var title = 'DecoViet Chuyên Thiết Kế, Thi Công Nội Thất Trọn Gói Giá Rẻ Tại TPHCM, Biên Hoà, Bình Dương !';
+export var text = 
+'Bạn nhận nhà mới, và không biết phải Thiết Kế, Thi Công Nội Thất như thế nào cho không gian nhà mình? Việc lựa chọn đơn vị Thi Công Nội Thất bạn là vấn đề cần phải cân nhắc kỹ lưỡng, Cẩn thận trong từng khâu tìm hiểu Công Ty Thi Công Nội Thất Uy Tín, Báo giá thi công nội thất tốt nhất, Giám sát thi công và chất lượng sản phẩm. Với Hơn 5000m2 xưởng sản xuất, Hệ thống nhiều showroom Nội Thất và đội ngủ nhân viên tư vấn nhiệt tình nhiều kinh nghiệm trong Ngành Nội Thất, Chúng tôi hứa hẹn sẻ mang đến cho bạn ngôi nhà đẹp nhất!'
